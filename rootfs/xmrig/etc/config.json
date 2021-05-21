@@ -1,12 +1,15 @@
 {
+    "api": {
+        "worker-id": "xmrig"
+    },
     "http": {
         "enabled": true,
         "host": "0.0.0.0",
         "port": 3000,
-        "access-token": null,
         "restricted": false
     },
     "autosave": true,
+    "donate-level": 5,
     "cpu": true,
     "opencl": false,
     "cuda": false,
