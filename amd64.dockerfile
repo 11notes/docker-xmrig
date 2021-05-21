@@ -65,3 +65,4 @@
     RUN chmod +x /usr/local/bin/entrypoint.sh
     USER xmrig
     ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+    CMD ["/xmrig/bin/xmrig", "-c", "/xmrig/etc/config.json"]

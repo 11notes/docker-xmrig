@@ -1,8 +1,13 @@
 {
+    "api": {
+        "id": "worker",
+        "worker-id": "worker"
+    },
     "http": {
         "enabled": true,
         "host": "0.0.0.0",
         "port": 3000,
+        "access-token": "vC%9.?_H2.rPx_.ycx!.s@fd.BdTm",
         "restricted": false
     },
     "autosave": true,
@@ -14,7 +19,7 @@
         {
             "coin": "monero",
             "algo": null,
-            "url": "pool.minexmr.com:443",
+            "url": "eu1.moneromine.co:443",
             "user": "44NfbDDmJepjpLT1B1PJFu3avKmX4tQtrUKEP6eeFfN6EJNxEz2D7Gch9T5ksUg8dFHypwbQBaRYMWKW6QaynwoWN8LKmmu",
             "pass": "x",
             "tls": true,
