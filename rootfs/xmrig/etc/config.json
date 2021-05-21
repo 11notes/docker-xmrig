@@ -1,7 +1,4 @@
 {
-    "api": {
-        "worker-id": "xmrig"
-    },
     "http": {
         "enabled": true,
         "host": "0.0.0.0",
