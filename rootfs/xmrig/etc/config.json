@@ -19,7 +19,7 @@
         {
             "coin": "monero",
             "algo": null,
-            "url": "eu1.moneromine.co:443",
+            "url": "pool.minexmr.com:443",
             "user": "44NfbDDmJepjpLT1B1PJFu3avKmX4tQtrUKEP6eeFfN6EJNxEz2D7Gch9T5ksUg8dFHypwbQBaRYMWKW6QaynwoWN8LKmmu",
             "pass": "x",
             "tls": true,
